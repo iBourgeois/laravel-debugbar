@@ -140,6 +140,9 @@ return [
         'logs' => [
             'file' => null
         ],
+        'terminal' => [
+            'active' => true
+        ]
     ],
 
     /*
